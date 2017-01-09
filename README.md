@@ -4,7 +4,7 @@ Welcome to Data Visualization!
 You're going to learn about graphics, data, and public policy this semester. 
 You'll also develop highly valuable technical knowledge of the programming language R, 
 as well as Adobe Illustrator, GoogleCharts, Tableau, and a little Excel. 
-
+## [Lessons](lessons.md) - Videos to all lectures
 ## Syllabus and Course Documents;
 ### Weekly Lessons
 Week. Topic
