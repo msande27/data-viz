@@ -28,3 +28,24 @@ Assignment Guidelines - You can read full assignment descriptions here, though y
 
 
 #### [General Policies](policies.md)
+
+#### Resources
+
+*  [A Short and Easy Introduction to R + RStudio](http://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf); 
+* [Swirl](http://swirlstats.com/students.html) - An introduction to R that itself (the introduction) runs in R; 
+* [R Reference Card](http://cran.r-project.org/doc/contrib/Short-refcard.pdf) - in case you find yourself googling the same things over and over; 
+* [Getting Started with Charts in R](http://flowingdata.com/2012/12/17/getting-started-with-charts-in-r/) - for those who have not taken Data Viz with me, charts in R from Nathan Yau; 
+* [Elementary Statistics with R](http://www.r-tutor.com/elementary-statistics) - slightly more advanced, this is a small dictionary of statistical methods in R; 
+*   [Advanced R](http://adv-r.had.co.nz/) - very thorough, very deep, very tough. This is the definitive guide to Advanced R.
+*   [Flowing Data](http://flowingdata.com/);
+*   [Visualizing Data](http://www.visualisingdata.com/);
+*   [PolicyViz Podcast](http://policyviz.com/);
+*   [Data Stories Podcast](http://datastori.es/);
+*   [Infosthetics](http://infosthetics.com/);
+*   [Nicholas Feltron's Tumbler](http://feltron.tumblr.com/); 
+*   [TheDailyViz](http://thedailyviz.com/);
+*   [A list of more blogs](http://flowingdata.com/2012/04/27/data-and-visualization-blogs-worth-following/)
+*   [Adobe Kuler ColorWheel](https://color.adobe.com/);
+*   [ColorBrewer](http://colorbrewer2.org/);
+*   [HCL Wizard](http://hclwizard.org/creator/);
+*   [Subtleties of Color Blog Series](http://earthobservatory.nasa.gov/blogs/elegantfigures/2013/08/05/subtleties-of-color-part-1-of-6/)
