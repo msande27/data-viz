@@ -134,6 +134,7 @@ practices, and to offer a deep dive into cutting edge graphing skills.
 
 ### Grading
 |Letter Grade|Percentage|
+|----|-----|
 |A+|98% to 100%|
 |A|94% to less than 98%|
 |A-|90% to less than 94%|
@@ -236,15 +237,19 @@ Important Note: Activity and assignment details will be explained in detail with
 
 |Week|Dates|Topics|Technical Workshops|Assessments & Due Dates|
 |----|-----|-----|-----|----|
-|1|6/1-6/7|Introduction to Data Visualization for Policy Analysis||
-|2|6/8-6/14|An Overview of Visual Perception & Intro to R Programming|Intro to R Programming|
-|3|6/15-6/21|Getting Started with Data & Graphics|Basic graphing in Excel & R|Portfolio Proposal (Assignment 1) due 6/21|
-|4|6/22-6/28|Visualizing Patterns over Time|R|Graph Submission 1 (Assignment 2) due 6/28|
-|5|6/29-7/5|Advanced Graph Design Concepts|Adobe Illustrator Workshop|Graph Submission 2 (Assignment 3) due 7/5|
-|6|7/6-7/12|Visualizing Proportions|R + Illustrator|GoogleCharts Part I|Graph Submission 3 (Assignment 4) due 7/12|
-|7|7/13-7/19|Visualizing Relationships|R + Illustrator|GoogleCharts Part II|Graph Submission 4 (Assignment 5) due 7/19
-|8|7/20-7/26|Revisiting Data & Graphics|Introduction to Tableau|R + Illustrator|Graph Submission 5 (Assignment 6) due 7/26
-|9|7/27-8/2|Geospatial Visualizations & Mapping|Advanced Tableau|Mapping in R Vignette, Mapping in GoogleCharts Vignette|Graph Submission 6 (Assignment 7) due 8/2
-|10|8/3-8/9|Advanced R for Data Visualization|R packages: ggplot2 & ggmap|Graph Submission 7 (Assignment 8) due 8/9|
-|11|8/10-8/16|Advanced R for Data Visualization|R packages: Lattice, ChordDiagrams, iGraph|Graph Submission 8 (Assignment 9) due 8/16|Final Presentation (Assignment 10) due 8/16|
-|12|8/17-8/23|Final Presentations|Final Portfolio (Assignments 11) due 8/23|
+|1|Jan 9|Introduction to Data Visualization for Policy Analysis||
+|2|Jan 16|An Overview of Visual Perception & Intro to R Programming|Intro to R Programming|
+|3|Jan 23|Getting Started with Data & Graphics|Basic graphing in Excel & R|Portfolio Proposal (Assignment 1) due 6/21|
+|4|Jan 30|Visualizing Patterns over Time|R|Graph Submission 1 (Assignment 2) due 6/28|
+|5|Feb 6|Advanced Graph Design Concepts|Adobe Illustrator Workshop|Graph Submission 2 (Assignment 3) due 7/5|
+|6|Feb 13|Visualizing Proportions|R + Illustrator|GoogleCharts Part I|Graph Submission 3 (Assignment 4) due 7/12|
+|7|Feb 20|Visualizing Relationships|R + Illustrator|GoogleCharts Part II|Graph Submission 4 (Assignment 5) due 7/19
+|8|Feb 27|Revisiting Data & Graphics|Introduction to Tableau|R + Illustrator|Graph Submission 5 (Assignment 6) due 7/26
+|9|Mar 6|Geospatial Visualizations & Mapping|Advanced Tableau|Mapping in R Vignette, Mapping in GoogleCharts Vignette|Graph Submission 6 (Assignment 7) due 8/2
+|10|Mar 13|Advanced R for Data Visualization|R packages: ggplot2, ggmap|Graph Submission 7 (Assignment 8) due 8/9|
+|11|Mar 20|Advanced R for Data Visualization|R packages: Lattice, ChordDiagrams, iGraph|Graph Submission 8 (Assignment 9) due 8/16|
+|12|Mar 27|Advanced R for Data Visualization|R packages: |tbd|
+|13|Apr 3|Web Visualizations|JavaScript, HighCharts, D3|tbd|
+|14|Apr 10|Web Continued|JavaScript, HighCharts, D3|tbd|
+|15|Apr 17|Advanced Topics||Final Presentation (Assignment 10) due 4/24|
+|16|Apr 24|Final Presentations|Final Portfolio (Assignments 11) due 4/25|
