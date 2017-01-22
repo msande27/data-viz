@@ -1,5 +1,10 @@
-# Lesson 3
+# Week 3 - Getting Started with Data & Graphics
+## Videos
 
+|Week|Vignette|Title|
+|----|-------|----|
+|3|1|[Data and Graphs](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1b772445-f238-4215-91fd-205c07cdb9ff)
+|3|2|[Basic Graphing in R](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c670560b-7963-4f1d-8d15-ad40d2dceb20)
 ## Portfolio
 The portfolio proposal is due at the end of this week (Sunday, June 21st ). 
 See the assignment guidelines tab for more information.
