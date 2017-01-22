@@ -36,3 +36,7 @@ Design a data visualization portfolio plan.
 Click on each link, then Right Click the 'Raw' button to Download files.
 - [Code](week3.R)
 - [hotdogs.csv](hotdogs.csv)
+
+## Links
+[Adoble Color](https://color.adobe.com)
+[Color Brewer](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
