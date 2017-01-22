@@ -1,4 +1,7 @@
 # Week 3 - Getting Started with Data & Graphics
+## Introduction
+This class focuses on starting to understand the relationship between the data you are working with and the graphical output produced. Building a strong intuition about the manner in which data is translated visually is a critical skill for understanding graphs. Simple examples like bar charts, histograms, scatterplots, and pie charts serve as a foundation for far more complex visualizations. As this underlying graphical intuition grows, a visualizer will become more capable of creatively imagining graphing options.
+
 ## Videos
 
 1. [Data and Graphs](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1b772445-f238-4215-91fd-205c07cdb9ff)
