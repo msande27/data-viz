@@ -20,5 +20,6 @@ Design a data visualization portfolio plan.
 - Few, Now You See It, Chapter 3
 
 ## Code and Data
-[Code](week3.R)
-[hotdogs.csv](hotdogs.csv)
+Right Click the 'Raw' button to Download files.
+- [Code](week3.R)
+- [hotdogs.csv](hotdogs.csv)
