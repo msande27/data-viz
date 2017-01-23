@@ -30,7 +30,7 @@ Design a data visualization portfolio plan.
 ## Reading Assignment
 - http://flowingdata.com/2012/12/17/getting-started-with-charts-in-r/
 - Chapter 1 of "The Visual Display of Quantitative Information"
-- Few, Now You See It, Chapter 3
+- ~~Few, Now You See It, Chapter 3~~
 
 ## Code and Data
 Click on each link, then Right Click the 'Raw' button to Download files.
